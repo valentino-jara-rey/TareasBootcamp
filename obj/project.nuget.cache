@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjcqWmr4cmA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valen\\Desktop\\GitHub\\Bloque2webapi\\Bloque2webapi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valen\\.nuget\\packages\\fsharp.core\\10.1.401\\fsharp.core.10.1.401.nupkg.sha512"
+  ],
+  "logs": []
+}

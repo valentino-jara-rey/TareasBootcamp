@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="WeatherForecast.fs" />
+    <None Include="Controllers\ProductoController.cs" />
+    <Compile Include="Controllers/WeatherForecastController.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="DTO\CreateProductoDto.cs" />
+    <None Include="DTO\ProductoDto.cs" />
+    <None Include="Repositories\IProductRepository.cs" />
+    <None Include="Models\Producto2.cs" />
+    <None Include="Services\IProductoService.cs" />
+    <None Include="Services\ProductoService.cs" />
+  </ItemGroup>
+
+</Project>

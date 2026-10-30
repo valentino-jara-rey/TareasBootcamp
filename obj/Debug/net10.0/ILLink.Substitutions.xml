@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Bloque2webapi">
+    <resource name="FSharpSignatureData.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Bloque2webapi" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Bloque2webapi" action="remove"></resource>
+  </assembly>
+</linker>
